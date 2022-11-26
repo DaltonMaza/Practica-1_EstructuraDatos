@@ -1,0 +1,68 @@
+{
+  "empresa": {
+    "nombre": "a",
+    "trabajadorList": {
+      "cabecera": {
+        "dato": {
+          "nombres": "dfgsdfgsdfg",
+          "apellidos": "sdfg",
+          "sueldo": 26.9,
+          "aniosEmpleo": 1,
+          "fechaIngreso": {
+            "year": 2021,
+            "month": 8,
+            "dayOfMonth": 2,
+            "hourOfDay": 9,
+            "minute": 8,
+            "second": 20
+          },
+          "rango": "JUNIOR",
+          "bono": 0.0,
+          "sueldoFinal": 26.9,
+          "pagado": false
+        },
+        "siguiente": {
+          "dato": {
+            "nombres": "kljadf",
+            "apellidos": "asldkf",
+            "sueldo": 29.6,
+            "aniosEmpleo": 10,
+            "fechaIngreso": {
+              "year": 2012,
+              "month": 9,
+              "dayOfMonth": 8,
+              "hourOfDay": 9,
+              "minute": 8,
+              "second": 39
+            },
+            "rango": "SENIOR",
+            "bono": 0.1,
+            "sueldoFinal": 32.56,
+            "pagado": false
+          },
+          "siguiente": {
+            "dato": {
+              "nombres": "asdf",
+              "apellidos": "lkasjdf",
+              "sueldo": 19.3,
+              "aniosEmpleo": 17,
+              "fechaIngreso": {
+                "year": 2005,
+                "month": 9,
+                "dayOfMonth": 8,
+                "hourOfDay": 9,
+                "minute": 9,
+                "second": 3
+              },
+              "rango": "VETERANO",
+              "bono": 0.2,
+              "sueldoFinal": 23.16,
+              "pagado": false
+            }
+          }
+        }
+      },
+      "tamanio": 3
+    }
+  }
+}
