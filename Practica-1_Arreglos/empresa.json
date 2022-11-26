@@ -1,0 +1,61 @@
+{
+  "empresa": {
+    "nombre": "asdf",
+    "trabajadorArray": [
+      {
+        "nombres": "jdsoja",
+        "apellidos": "jlaksjdof",
+        "sueldo": 236.8,
+        "aniosEmpleo": 6,
+        "fechaIngreso": {
+          "year": 2016,
+          "month": 2,
+          "dayOfMonth": 5,
+          "hourOfDay": 7,
+          "minute": 40,
+          "second": 43
+        },
+        "rango": "SENIOR",
+        "bono": 0.1,
+        "sueldoFinal": 260.48,
+        "pagado": false
+      },
+      {
+        "nombres": "asdjf",
+        "apellidos": "laksjdf",
+        "sueldo": 25.9,
+        "aniosEmpleo": 9,
+        "fechaIngreso": {
+          "year": 2013,
+          "month": 8,
+          "dayOfMonth": 5,
+          "hourOfDay": 7,
+          "minute": 40,
+          "second": 57
+        },
+        "rango": "SENIOR",
+        "bono": 0.1,
+        "sueldoFinal": 28.49,
+        "pagado": false
+      },
+      {
+        "nombres": "asdf",
+        "apellidos": " asldkjf",
+        "sueldo": 25.9,
+        "aniosEmpleo": 22,
+        "fechaIngreso": {
+          "year": 2000,
+          "month": 8,
+          "dayOfMonth": 2,
+          "hourOfDay": 7,
+          "minute": 41,
+          "second": 13
+        },
+        "rango": "VETERANO",
+        "bono": 0.2,
+        "sueldoFinal": 31.08,
+        "pagado": false
+      }
+    ]
+  }
+}
